@@ -19,4 +19,4 @@ Initialize the class with a checkpoint path. That path will be used to save/load
 
 # Results
 
-The SAC agent with the parameters included in the python file, it takes about 500-1000 episodes before solving 'Pendulum-v0' environment.
+The SAC agent with the parameters included in the python file, it takes about 500-1000 episodes to get an average score of -148.2780 in 'Pendulum-v0' environment.
