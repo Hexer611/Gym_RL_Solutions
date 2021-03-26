@@ -19,4 +19,4 @@ Initialize the class with a checkpoint path. That path will be used to save/load
 
 # Results
 
-The PPO agent with the parameters included in the python file, solves the 'Pendulum-v0' environment in about 287 episodes.
+The PPO agent with the parameters included in the python file, solves the 'LunarLander-v2' environment in about 287 episodes.
