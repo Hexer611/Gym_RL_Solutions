@@ -1,0 +1,504 @@
+Episode 0 - Total Steps 200 - Average Reward -192.0 - Loss 0.30163076519966125
+Episode 0 - Total Steps 400 - Average Reward -200.0 - Loss 0.2807301878929138
+Episode 0 - Total Steps 600 - Average Reward -200.0 - Loss 0.22857339680194855
+Episode 0 - Total Steps 800 - Average Reward -200.0 - Loss 0.08567238599061966
+Episode 0 - Total Steps 1000 - Average Reward -200.0 - Loss 0.17036297917366028
+Episode 0 - Total Steps 1200 - Average Reward -200.0 - Loss 0.5321981310844421
+Episode 0 - Total Steps 1400 - Average Reward -200.0 - Loss 0.3897554278373718
+Episode 0 - Total Steps 1600 - Average Reward -200.0 - Loss 0.1493110954761505
+Episode 8 - Total Steps 1800 - Average Reward -192.0 - Loss 1.6941933631896973
+Episode 8 - Total Steps 2000 - Average Reward -200.0 - Loss 1.7574313879013062
+Episode 8 - Total Steps 2200 - Average Reward -200.0 - Loss 1.356281042098999
+Episode 8 - Total Steps 2400 - Average Reward -200.0 - Loss 0.9786931872367859
+Episode 8 - Total Steps 2600 - Average Reward -200.0 - Loss 1.098469853401184
+Episode 8 - Total Steps 2800 - Average Reward -200.0 - Loss 1.1262006759643555
+Episode 8 - Total Steps 3000 - Average Reward -200.0 - Loss 1.3481923341751099
+Episode 8 - Total Steps 3200 - Average Reward -200.0 - Loss 1.209458589553833
+Episode 16 - Total Steps 3400 - Average Reward -192.0 - Loss 1.3874367475509644
+Episode 16 - Total Steps 3600 - Average Reward -200.0 - Loss 1.7941625118255615
+Episode 16 - Total Steps 3800 - Average Reward -200.0 - Loss 1.343233585357666
+Episode 16 - Total Steps 4000 - Average Reward -200.0 - Loss 1.0939522981643677
+Episode 16 - Total Steps 4200 - Average Reward -200.0 - Loss 0.991352379322052
+Episode 16 - Total Steps 4400 - Average Reward -200.0 - Loss 0.9218246340751648
+Episode 16 - Total Steps 4600 - Average Reward -200.0 - Loss 1.2307281494140625
+Episode 16 - Total Steps 4800 - Average Reward -200.0 - Loss 1.524464726448059
+Episode 24 - Total Steps 5000 - Average Reward -192.0 - Loss 0.8565545678138733
+Episode 24 - Total Steps 5200 - Average Reward -200.0 - Loss 1.6364006996154785
+Episode 24 - Total Steps 5400 - Average Reward -200.0 - Loss 1.4402409791946411
+Episode 24 - Total Steps 5600 - Average Reward -200.0 - Loss 1.4840795993804932
+Episode 24 - Total Steps 5800 - Average Reward -200.0 - Loss 0.9427056908607483
+Episode 24 - Total Steps 6000 - Average Reward -200.0 - Loss 1.0906490087509155
+Episode 24 - Total Steps 6200 - Average Reward -200.0 - Loss 1.476503610610962
+Episode 24 - Total Steps 6400 - Average Reward -200.0 - Loss 0.6305372714996338
+Episode 32 - Total Steps 6600 - Average Reward -192.0 - Loss 0.6493902802467346
+Episode 32 - Total Steps 6800 - Average Reward -200.0 - Loss 1.4339016675949097
+Episode 32 - Total Steps 7000 - Average Reward -200.0 - Loss 1.3628798723220825
+Episode 32 - Total Steps 7200 - Average Reward -200.0 - Loss 1.4931453466415405
+Episode 32 - Total Steps 7400 - Average Reward -200.0 - Loss 0.9845418930053711
+Episode 32 - Total Steps 7600 - Average Reward -200.0 - Loss 1.4520807266235352
+Episode 32 - Total Steps 7800 - Average Reward -200.0 - Loss 0.8352473378181458
+Episode 32 - Total Steps 8000 - Average Reward -200.0 - Loss 1.1819888353347778
+Episode 40 - Total Steps 8200 - Average Reward -192.0 - Loss 1.5839260816574097
+Episode 40 - Total Steps 8400 - Average Reward -200.0 - Loss 1.173475980758667
+Episode 40 - Total Steps 8600 - Average Reward -200.0 - Loss 0.8721331357955933
+Episode 40 - Total Steps 8800 - Average Reward -200.0 - Loss 1.1359000205993652
+Episode 40 - Total Steps 9000 - Average Reward -200.0 - Loss 1.3063684701919556
+Episode 40 - Total Steps 9200 - Average Reward -200.0 - Loss 0.75421142578125
+Episode 40 - Total Steps 9400 - Average Reward -200.0 - Loss 0.9957926869392395
+Episode 40 - Total Steps 9600 - Average Reward -200.0 - Loss 1.4607208967208862
+Episode 48 - Total Steps 9800 - Average Reward -192.0 - Loss 1.494832158088684
+Episode 48 - Total Steps 10000 - Average Reward -200.0 - Loss 1.4158787727355957
+|Episode 1 | Episode reward -200.0 |Average reward -200.0|
+|Episode 2 | Episode reward -200.0 |Average reward -200.0|
+|Episode 3 | Episode reward -200.0 |Average reward -200.0|
+|Episode 4 | Episode reward -200.0 |Average reward -200.0|
+|Episode 5 | Episode reward -200.0 |Average reward -200.0|
+Brain saved.
+Episode 48 - Total Steps 10200 - Average Reward -200.0 - Loss 1.0005773305892944
+Episode 48 - Total Steps 10400 - Average Reward -200.0 - Loss 1.2950713634490967
+Episode 48 - Total Steps 10600 - Average Reward -200.0 - Loss 0.8494659662246704
+Episode 48 - Total Steps 10800 - Average Reward -200.0 - Loss 1.5222275257110596
+Episode 48 - Total Steps 11000 - Average Reward -200.0 - Loss 0.6914515495300293
+Episode 48 - Total Steps 11200 - Average Reward -200.0 - Loss 0.8158746957778931
+Episode 56 - Total Steps 11400 - Average Reward -192.0 - Loss 2.280428886413574
+Episode 56 - Total Steps 11600 - Average Reward -200.0 - Loss 1.237402319908142
+Episode 56 - Total Steps 11800 - Average Reward -200.0 - Loss 0.9772164821624756
+Episode 56 - Total Steps 12000 - Average Reward -200.0 - Loss 1.116780400276184
+Episode 56 - Total Steps 12200 - Average Reward -200.0 - Loss 1.3508557081222534
+Episode 56 - Total Steps 12400 - Average Reward -200.0 - Loss 0.9892244935035706
+Episode 56 - Total Steps 12600 - Average Reward -200.0 - Loss 1.0258468389511108
+Episode 56 - Total Steps 12800 - Average Reward -200.0 - Loss 1.030014991760254
+Episode 64 - Total Steps 13000 - Average Reward -192.0 - Loss 1.0845248699188232
+Episode 64 - Total Steps 13200 - Average Reward -200.0 - Loss 1.268325686454773
+Episode 64 - Total Steps 13400 - Average Reward -200.0 - Loss 0.8225846290588379
+Episode 64 - Total Steps 13600 - Average Reward -200.0 - Loss 1.3772811889648438
+Episode 64 - Total Steps 13800 - Average Reward -200.0 - Loss 0.948270320892334
+Episode 64 - Total Steps 14000 - Average Reward -200.0 - Loss 1.20684814453125
+Episode 64 - Total Steps 14200 - Average Reward -200.0 - Loss 1.0468584299087524
+Episode 64 - Total Steps 14400 - Average Reward -200.0 - Loss 1.0554399490356445
+Episode 72 - Total Steps 14600 - Average Reward -192.0 - Loss 0.7989751696586609
+Episode 72 - Total Steps 14800 - Average Reward -200.0 - Loss 1.3824363946914673
+Episode 72 - Total Steps 15000 - Average Reward -200.0 - Loss 1.300439715385437
+Episode 72 - Total Steps 15200 - Average Reward -200.0 - Loss 0.5738285183906555
+Episode 72 - Total Steps 15400 - Average Reward -200.0 - Loss 1.556675910949707
+Episode 72 - Total Steps 15600 - Average Reward -200.0 - Loss 1.3965983390808105
+Episode 72 - Total Steps 15800 - Average Reward -200.0 - Loss 1.0431424379348755
+Episode 72 - Total Steps 16000 - Average Reward -200.0 - Loss 0.9256168603897095
+Episode 80 - Total Steps 16200 - Average Reward -192.0 - Loss 0.8904756903648376
+Episode 80 - Total Steps 16400 - Average Reward -200.0 - Loss 1.2815542221069336
+Episode 80 - Total Steps 16600 - Average Reward -200.0 - Loss 1.0891566276550293
+Episode 80 - Total Steps 16800 - Average Reward -200.0 - Loss 1.140533685684204
+Episode 80 - Total Steps 17000 - Average Reward -200.0 - Loss 1.1265491247177124
+Episode 80 - Total Steps 17200 - Average Reward -200.0 - Loss 0.4759684205055237
+Episode 82 - Total Steps 17400 - Average Reward -198.0 - Loss 1.2762014865875244
+Episode 85 - Total Steps 17600 - Average Reward -197.0 - Loss 1.231968641281128
+Episode 88 - Total Steps 17800 - Average Reward -197.0 - Loss 1.0375210046768188
+Episode 88 - Total Steps 18000 - Average Reward -200.0 - Loss 0.8766216039657593
+Episode 88 - Total Steps 18200 - Average Reward -200.0 - Loss 0.9863700270652771
+Episode 88 - Total Steps 18400 - Average Reward -200.0 - Loss 0.7600240707397461
+Episode 88 - Total Steps 18600 - Average Reward -200.0 - Loss 0.9006624817848206
+Episode 89 - Total Steps 18800 - Average Reward -199.0 - Loss 0.967854380607605
+Episode 91 - Total Steps 19000 - Average Reward -198.0 - Loss 0.5247974395751953
+Episode 93 - Total Steps 19200 - Average Reward -198.0 - Loss 1.100412368774414
+Episode 96 - Total Steps 19400 - Average Reward -197.0 - Loss 0.8989452719688416
+Episode 96 - Total Steps 19600 - Average Reward -200.0 - Loss 0.7922558188438416
+Episode 96 - Total Steps 19800 - Average Reward -200.0 - Loss 0.6996216773986816
+Episode 96 - Total Steps 20000 - Average Reward -200.0 - Loss 0.6659319996833801
+|Episode 1 | Episode reward -174.0 |Average reward -174.0|
+|Episode 2 | Episode reward -181.0 |Average reward -177.5|
+|Episode 3 | Episode reward -174.0 |Average reward -176.33333333333334|
+|Episode 4 | Episode reward -175.0 |Average reward -176.0|
+|Episode 5 | Episode reward -175.0 |Average reward -175.8|
+Brain saved.
+Episode 97 - Total Steps 20200 - Average Reward -199.0 - Loss 0.9439874887466431
+Episode 98 - Total Steps 20400 - Average Reward -199.0 - Loss 1.3052563667297363
+Episode 102 - Total Steps 20600 - Average Reward -196.0 - Loss 0.5286447405815125
+Episode 102 - Total Steps 20800 - Average Reward -200.0 - Loss 0.9016231894493103
+Episode 104 - Total Steps 21000 - Average Reward -198.0 - Loss 0.9034947156906128
+Episode 104 - Total Steps 21200 - Average Reward -200.0 - Loss 0.599479079246521
+Episode 105 - Total Steps 21400 - Average Reward -199.0 - Loss 1.2202484607696533
+Episode 106 - Total Steps 21600 - Average Reward -199.0 - Loss 1.0587592124938965
+Episode 109 - Total Steps 21800 - Average Reward -197.0 - Loss 0.6850971579551697
+Episode 109 - Total Steps 22000 - Average Reward -200.0 - Loss 0.3946199119091034
+Episode 110 - Total Steps 22200 - Average Reward -199.0 - Loss 0.8163884878158569
+Episode 112 - Total Steps 22400 - Average Reward -198.0 - Loss 0.2411476969718933
+Episode 112 - Total Steps 22600 - Average Reward -200.0 - Loss 0.7017335891723633
+Episode 113 - Total Steps 22800 - Average Reward -199.0 - Loss 0.6831904053688049
+Episode 116 - Total Steps 23000 - Average Reward -197.0 - Loss 0.5312442183494568
+Episode 116 - Total Steps 23200 - Average Reward -200.0 - Loss 0.7330265045166016
+Episode 118 - Total Steps 23400 - Average Reward -198.0 - Loss 0.7440415024757385
+Episode 120 - Total Steps 23600 - Average Reward -198.0 - Loss 0.4809378385543823
+Episode 120 - Total Steps 23800 - Average Reward -200.0 - Loss 0.6556135416030884
+Episode 121 - Total Steps 24000 - Average Reward -199.0 - Loss 0.6639163494110107
+Episode 121 - Total Steps 24200 - Average Reward -200.0 - Loss 0.903052806854248
+Episode 123 - Total Steps 24400 - Average Reward -198.0 - Loss 1.0326534509658813
+Episode 125 - Total Steps 24600 - Average Reward -198.0 - Loss 0.48061618208885193
+Episode 126 - Total Steps 24800 - Average Reward -199.0 - Loss 0.9152840375900269
+Episode 128 - Total Steps 25000 - Average Reward -198.0 - Loss 0.6321433782577515
+Episode 128 - Total Steps 25200 - Average Reward -200.0 - Loss 0.6460573673248291
+Episode 129 - Total Steps 25400 - Average Reward -199.0 - Loss 0.7637843489646912
+Episode 129 - Total Steps 25600 - Average Reward -200.0 - Loss 0.4354403018951416
+Episode 130 - Total Steps 25800 - Average Reward -199.0 - Loss 0.7636182904243469
+Episode 133 - Total Steps 26000 - Average Reward -197.0 - Loss 0.7501109838485718
+Episode 136 - Total Steps 26200 - Average Reward -197.0 - Loss 0.5662346482276917
+Episode 136 - Total Steps 26400 - Average Reward -200.0 - Loss 0.6856391429901123
+Episode 137 - Total Steps 26600 - Average Reward -199.0 - Loss 0.5836213231086731
+Episode 137 - Total Steps 26800 - Average Reward -200.0 - Loss 0.779211163520813
+Episode 137 - Total Steps 27000 - Average Reward -200.0 - Loss 0.6457110643386841
+Episode 139 - Total Steps 27200 - Average Reward -198.0 - Loss 0.4774787425994873
+Episode 142 - Total Steps 27400 - Average Reward -198.0 - Loss 0.7849096655845642
+Episode 143 - Total Steps 27600 - Average Reward -198.0 - Loss 0.5223151445388794
+Episode 144 - Total Steps 27800 - Average Reward -199.0 - Loss 0.5735118389129639
+Episode 145 - Total Steps 28000 - Average Reward -199.0 - Loss 0.38060444593429565
+Episode 145 - Total Steps 28200 - Average Reward -200.0 - Loss 0.7445554137229919
+Episode 146 - Total Steps 28400 - Average Reward -199.0 - Loss 0.6075222492218018
+Episode 148 - Total Steps 28600 - Average Reward -198.0 - Loss 0.8456993699073792
+Episode 151 - Total Steps 28800 - Average Reward -197.0 - Loss 0.5755717158317566
+Episode 151 - Total Steps 29000 - Average Reward -200.0 - Loss 0.5051875710487366
+Episode 153 - Total Steps 29200 - Average Reward -198.0 - Loss 0.2508043348789215
+Episode 153 - Total Steps 29400 - Average Reward -200.0 - Loss 0.43223369121551514
+Episode 153 - Total Steps 29600 - Average Reward -200.0 - Loss 0.8223167657852173
+Episode 155 - Total Steps 29800 - Average Reward -198.0 - Loss 0.5679394006729126
+Episode 158 - Total Steps 30000 - Average Reward -197.0 - Loss 0.4702579379081726
+|Episode 1 | Episode reward -108.0 |Average reward -108.0|
+|Episode 2 | Episode reward -88.0 |Average reward -98.0|
+|Episode 3 | Episode reward -88.0 |Average reward -94.66666666666667|
+|Episode 4 | Episode reward -160.0 |Average reward -111.0|
+|Episode 5 | Episode reward -182.0 |Average reward -125.2|
+Brain saved.
+Episode 159 - Total Steps 30200 - Average Reward -199.0 - Loss 0.29544830322265625
+Episode 161 - Total Steps 30400 - Average Reward -199.0 - Loss 0.3596043288707733
+Episode 161 - Total Steps 30600 - Average Reward -199.0 - Loss 0.4219834506511688
+Episode 161 - Total Steps 30800 - Average Reward -200.0 - Loss 0.47829312086105347
+Episode 163 - Total Steps 31000 - Average Reward -198.0 - Loss 0.1538129448890686
+Episode 164 - Total Steps 31200 - Average Reward -199.0 - Loss 0.6747044324874878
+Episode 165 - Total Steps 31400 - Average Reward -199.0 - Loss 0.37992480397224426
+Episode 167 - Total Steps 31600 - Average Reward -198.0 - Loss 0.48565953969955444
+Episode 169 - Total Steps 31800 - Average Reward -198.0 - Loss 0.7450304627418518
+Episode 170 - Total Steps 32000 - Average Reward -199.0 - Loss 0.22831864655017853
+Episode 170 - Total Steps 32200 - Average Reward -200.0 - Loss 0.5035470724105835
+Episode 171 - Total Steps 32400 - Average Reward -199.0 - Loss 0.14950384199619293
+Episode 173 - Total Steps 32600 - Average Reward -198.0 - Loss 0.6488417387008667
+Episode 174 - Total Steps 32800 - Average Reward -199.0 - Loss 0.35971593856811523
+Episode 175 - Total Steps 33000 - Average Reward -199.0 - Loss 0.4921383559703827
+Episode 178 - Total Steps 33200 - Average Reward -198.0 - Loss 0.4929198920726776
+Episode 178 - Total Steps 33400 - Average Reward -199.0 - Loss 0.5990899205207825
+Episode 179 - Total Steps 33600 - Average Reward -199.0 - Loss 0.06208907812833786
+Episode 181 - Total Steps 33800 - Average Reward -199.0 - Loss 0.3194569945335388
+Episode 181 - Total Steps 34000 - Average Reward -199.0 - Loss 0.5609008073806763
+Episode 182 - Total Steps 34200 - Average Reward -199.0 - Loss 0.5924667119979858
+Episode 185 - Total Steps 34400 - Average Reward -198.0 - Loss 0.47001850605010986
+Episode 186 - Total Steps 34600 - Average Reward -198.0 - Loss 0.6773384809494019
+Episode 186 - Total Steps 34800 - Average Reward -200.0 - Loss 0.512702465057373
+Episode 188 - Total Steps 35000 - Average Reward -198.0 - Loss 0.3256649076938629
+Episode 189 - Total Steps 35200 - Average Reward -199.0 - Loss 0.42672622203826904
+Episode 189 - Total Steps 35400 - Average Reward -200.0 - Loss 0.4571698307991028
+Episode 191 - Total Steps 35600 - Average Reward -198.0 - Loss 0.3017500042915344
+Episode 194 - Total Steps 35800 - Average Reward -197.0 - Loss 0.49501848220825195
+Episode 194 - Total Steps 36000 - Average Reward -200.0 - Loss 0.09250997006893158
+Episode 195 - Total Steps 36200 - Average Reward -199.0 - Loss 0.40305668115615845
+Episode 196 - Total Steps 36400 - Average Reward -199.0 - Loss 0.5964234471321106
+Episode 197 - Total Steps 36600 - Average Reward -199.0 - Loss 0.15262973308563232
+Episode 198 - Total Steps 36800 - Average Reward -199.0 - Loss 0.4287892282009125
+Episode 201 - Total Steps 37000 - Average Reward -197.0 - Loss 0.9413228034973145
+Episode 202 - Total Steps 37200 - Average Reward -199.0 - Loss 0.3752952516078949
+Episode 203 - Total Steps 37400 - Average Reward -199.0 - Loss 0.7380735278129578
+Episode 203 - Total Steps 37600 - Average Reward -200.0 - Loss 0.5492570400238037
+Episode 204 - Total Steps 37800 - Average Reward -199.0 - Loss 0.3078947365283966
+Episode 206 - Total Steps 38000 - Average Reward -198.0 - Loss 0.3744438588619232
+Episode 207 - Total Steps 38200 - Average Reward -199.0 - Loss 0.18202131986618042
+Episode 208 - Total Steps 38400 - Average Reward -199.0 - Loss 0.36147964000701904
+Episode 210 - Total Steps 38600 - Average Reward -198.0 - Loss 0.5760113596916199
+Episode 211 - Total Steps 38800 - Average Reward -199.0 - Loss 0.29168638586997986
+Episode 212 - Total Steps 39000 - Average Reward -199.0 - Loss 0.3685864806175232
+Episode 213 - Total Steps 39200 - Average Reward -199.0 - Loss 0.46490010619163513
+Episode 214 - Total Steps 39400 - Average Reward -199.0 - Loss 0.3070618510246277
+Episode 216 - Total Steps 39600 - Average Reward -198.0 - Loss 0.5055679082870483
+Episode 218 - Total Steps 39800 - Average Reward -198.0 - Loss 0.4878332316875458
+Episode 219 - Total Steps 40000 - Average Reward -199.0 - Loss 0.5833583474159241
+|Episode 1 | Episode reward -157.0 |Average reward -157.0|
+|Episode 2 | Episode reward -152.0 |Average reward -154.5|
+|Episode 3 | Episode reward -90.0 |Average reward -133.0|
+|Episode 4 | Episode reward -169.0 |Average reward -142.0|
+|Episode 5 | Episode reward -93.0 |Average reward -132.2|
+Brain saved.
+Episode 220 - Total Steps 40200 - Average Reward -199.0 - Loss 0.3727177083492279
+Episode 221 - Total Steps 40400 - Average Reward -199.0 - Loss 0.11117842048406601
+Episode 222 - Total Steps 40600 - Average Reward -200.0 - Loss 0.44272381067276
+Episode 222 - Total Steps 40800 - Average Reward -199.0 - Loss 0.49070435762405396
+Episode 223 - Total Steps 41000 - Average Reward -199.0 - Loss 0.11431516706943512
+Episode 226 - Total Steps 41200 - Average Reward -197.0 - Loss 0.5443726181983948
+Episode 229 - Total Steps 41400 - Average Reward -197.0 - Loss 0.22841759026050568
+Episode 230 - Total Steps 41600 - Average Reward -199.0 - Loss 0.22721143066883087
+Episode 230 - Total Steps 41800 - Average Reward -200.0 - Loss 0.33117565512657166
+Episode 230 - Total Steps 42000 - Average Reward -200.0 - Loss 0.16895224153995514
+Episode 231 - Total Steps 42200 - Average Reward -199.0 - Loss 0.2897069752216339
+Episode 234 - Total Steps 42400 - Average Reward -197.0 - Loss 0.43220600485801697
+Episode 235 - Total Steps 42600 - Average Reward -199.0 - Loss 0.4220983386039734
+Episode 238 - Total Steps 42800 - Average Reward -197.0 - Loss 0.15379053354263306
+Episode 238 - Total Steps 43000 - Average Reward -200.0 - Loss 0.5202194452285767
+Episode 238 - Total Steps 43200 - Average Reward -200.0 - Loss 0.43960461020469666
+Episode 239 - Total Steps 43400 - Average Reward -199.0 - Loss 0.48320212960243225
+Episode 242 - Total Steps 43600 - Average Reward -197.0 - Loss 0.6078482270240784
+Episode 244 - Total Steps 43800 - Average Reward -198.0 - Loss 0.1406148225069046
+Episode 246 - Total Steps 44000 - Average Reward -198.0 - Loss 0.22688797116279602
+Episode 246 - Total Steps 44200 - Average Reward -200.0 - Loss 0.312543123960495
+Episode 246 - Total Steps 44400 - Average Reward -200.0 - Loss 0.38831543922424316
+Episode 247 - Total Steps 44600 - Average Reward -199.0 - Loss 0.2711937427520752
+Episode 248 - Total Steps 44800 - Average Reward -199.0 - Loss 0.08172455430030823
+Episode 252 - Total Steps 45000 - Average Reward -196.0 - Loss 0.21492981910705566
+Episode 254 - Total Steps 45200 - Average Reward -198.0 - Loss 0.49527984857559204
+Episode 254 - Total Steps 45400 - Average Reward -200.0 - Loss 0.15856219828128815
+Episode 254 - Total Steps 45600 - Average Reward -200.0 - Loss 0.5108776092529297
+Episode 256 - Total Steps 45800 - Average Reward -198.0 - Loss 0.1979849487543106
+Episode 257 - Total Steps 46000 - Average Reward -199.0 - Loss 0.10834906995296478
+Episode 258 - Total Steps 46200 - Average Reward -199.0 - Loss 0.44548237323760986
+Episode 262 - Total Steps 46400 - Average Reward -196.0 - Loss 0.7475035786628723
+Episode 262 - Total Steps 46600 - Average Reward -200.0 - Loss 0.3283708095550537
+Episode 262 - Total Steps 46800 - Average Reward -200.0 - Loss 0.44022437930107117
+Episode 262 - Total Steps 47000 - Average Reward -200.0 - Loss 0.19353440403938293
+Episode 265 - Total Steps 47200 - Average Reward -197.0 - Loss 0.41894638538360596
+Episode 266 - Total Steps 47400 - Average Reward -199.0 - Loss 0.4272034764289856
+Episode 270 - Total Steps 47600 - Average Reward -196.0 - Loss 0.398017942905426
+Episode 270 - Total Steps 47800 - Average Reward -200.0 - Loss 0.27441686391830444
+Episode 270 - Total Steps 48000 - Average Reward -200.0 - Loss 0.3123086392879486
+Episode 271 - Total Steps 48200 - Average Reward -199.0 - Loss 0.20980346202850342
+Episode 273 - Total Steps 48400 - Average Reward -198.0 - Loss 0.21271950006484985
+Episode 274 - Total Steps 48600 - Average Reward -199.0 - Loss 0.3971346318721771
+Episode 277 - Total Steps 48800 - Average Reward -197.0 - Loss 0.1680009961128235
+Episode 278 - Total Steps 49000 - Average Reward -199.0 - Loss 0.27589714527130127
+Episode 278 - Total Steps 49200 - Average Reward -200.0 - Loss 0.0007328325882554054
+Episode 278 - Total Steps 49400 - Average Reward -200.0 - Loss 0.35205182433128357
+Episode 281 - Total Steps 49600 - Average Reward -197.0 - Loss 0.3677625060081482
+Episode 282 - Total Steps 49800 - Average Reward -199.0 - Loss 0.28290021419525146
+Episode 283 - Total Steps 50000 - Average Reward -200.0 - Loss 0.6213880777359009
+|Episode 1 | Episode reward -169.0 |Average reward -169.0|
+|Episode 2 | Episode reward -153.0 |Average reward -161.0|
+|Episode 3 | Episode reward -150.0 |Average reward -157.33333333333334|
+|Episode 4 | Episode reward -112.0 |Average reward -146.0|
+|Episode 5 | Episode reward -89.0 |Average reward -134.6|
+Brain saved.
+Episode 286 - Total Steps 50200 - Average Reward -196.0 - Loss 0.3327740430831909
+Episode 286 - Total Steps 50400 - Average Reward -200.0 - Loss 0.06899286806583405
+Episode 286 - Total Steps 50600 - Average Reward -200.0 - Loss 0.3755461573600769
+Episode 288 - Total Steps 50800 - Average Reward -198.0 - Loss 0.10260821878910065
+Episode 289 - Total Steps 51000 - Average Reward -199.0 - Loss -0.04088474437594414
+Episode 290 - Total Steps 51200 - Average Reward -199.0 - Loss 0.18928015232086182
+Episode 293 - Total Steps 51400 - Average Reward -197.0 - Loss 0.23864883184432983
+Episode 294 - Total Steps 51600 - Average Reward -199.0 - Loss 0.2763918936252594
+Episode 294 - Total Steps 51800 - Average Reward -200.0 - Loss 0.2570626139640808
+Episode 296 - Total Steps 52000 - Average Reward -198.0 - Loss 0.551223874092102
+Episode 299 - Total Steps 52200 - Average Reward -197.0 - Loss 0.07537740468978882
+Episode 299 - Total Steps 52400 - Average Reward -200.0 - Loss 0.45913511514663696
+Episode 299 - Total Steps 52600 - Average Reward -200.0 - Loss 0.2744820713996887
+Episode 300 - Total Steps 52800 - Average Reward -199.0 - Loss 0.22591304779052734
+Episode 301 - Total Steps 53000 - Average Reward -199.0 - Loss 0.4949893653392792
+Episode 304 - Total Steps 53200 - Average Reward -198.0 - Loss 0.2583736777305603
+Episode 307 - Total Steps 53400 - Average Reward -196.0 - Loss 0.4342559278011322
+Episode 307 - Total Steps 53600 - Average Reward -200.0 - Loss 0.3282369375228882
+Episode 308 - Total Steps 53800 - Average Reward -200.0 - Loss 0.36628246307373047
+Episode 309 - Total Steps 54000 - Average Reward -198.0 - Loss 0.27805855870246887
+Episode 309 - Total Steps 54200 - Average Reward -200.0 - Loss 0.48684296011924744
+Episode 311 - Total Steps 54400 - Average Reward -198.0 - Loss 0.2342328131198883
+Episode 314 - Total Steps 54600 - Average Reward -197.0 - Loss 0.22538159787654877
+Episode 315 - Total Steps 54800 - Average Reward -199.0 - Loss 0.11937722563743591
+Episode 315 - Total Steps 55000 - Average Reward -200.0 - Loss 0.14405415952205658
+Episode 317 - Total Steps 55200 - Average Reward -198.0 - Loss 0.264792799949646
+Episode 317 - Total Steps 55400 - Average Reward -200.0 - Loss 0.5264054536819458
+Episode 318 - Total Steps 55600 - Average Reward -200.0 - Loss 0.4447877109050751
+Episode 322 - Total Steps 55800 - Average Reward -195.0 - Loss 0.13051243126392365
+Episode 323 - Total Steps 56000 - Average Reward -199.0 - Loss 0.15345241129398346
+Episode 324 - Total Steps 56200 - Average Reward -199.0 - Loss 0.4113873243331909
+Episode 324 - Total Steps 56400 - Average Reward -200.0 - Loss 0.2174742966890335
+Episode 327 - Total Steps 56600 - Average Reward -197.0 - Loss 0.1475982517004013
+Episode 327 - Total Steps 56800 - Average Reward -200.0 - Loss 0.3164847791194916
+Episode 330 - Total Steps 57000 - Average Reward -197.0 - Loss 0.3036414086818695
+Episode 330 - Total Steps 57200 - Average Reward -200.0 - Loss 0.08825914561748505
+Episode 331 - Total Steps 57400 - Average Reward -199.0 - Loss 0.4220197796821594
+Episode 331 - Total Steps 57600 - Average Reward -200.0 - Loss 0.3137134313583374
+Episode 335 - Total Steps 57800 - Average Reward -196.0 - Loss 0.24466082453727722
+Episode 335 - Total Steps 58000 - Average Reward -200.0 - Loss 0.40926048159599304
+Episode 338 - Total Steps 58200 - Average Reward -197.0 - Loss 0.33159515261650085
+Episode 338 - Total Steps 58400 - Average Reward -200.0 - Loss 0.16778729856014252
+Episode 338 - Total Steps 58600 - Average Reward -200.0 - Loss 0.07000650465488434
+Episode 338 - Total Steps 58800 - Average Reward -200.0 - Loss 0.3629210293292999
+Episode 341 - Total Steps 59000 - Average Reward -197.0 - Loss 0.3430682420730591
+Episode 344 - Total Steps 59200 - Average Reward -197.0 - Loss 0.13167239725589752
+Episode 345 - Total Steps 59400 - Average Reward -199.0 - Loss 0.1404787302017212
+Episode 346 - Total Steps 59600 - Average Reward -199.0 - Loss 0.1961270123720169
+Episode 347 - Total Steps 59800 - Average Reward -199.0 - Loss 0.3984200358390808
+Episode 348 - Total Steps 60000 - Average Reward -199.0 - Loss 0.21617163717746735
+|Episode 1 | Episode reward -171.0 |Average reward -171.0|
+|Episode 2 | Episode reward -164.0 |Average reward -167.5|
+|Episode 3 | Episode reward -153.0 |Average reward -162.66666666666666|
+|Episode 4 | Episode reward -157.0 |Average reward -161.25|
+|Episode 5 | Episode reward -155.0 |Average reward -160.0|
+Brain saved.
+Episode 349 - Total Steps 60200 - Average Reward -199.0 - Loss 0.4354708790779114
+Episode 351 - Total Steps 60400 - Average Reward -198.0 - Loss 0.19152319431304932
+Episode 353 - Total Steps 60600 - Average Reward -198.0 - Loss 0.20056922733783722
+Episode 354 - Total Steps 60800 - Average Reward -199.0 - Loss 0.21484486758708954
+Episode 354 - Total Steps 61000 - Average Reward -200.0 - Loss 0.1754191815853119
+Episode 356 - Total Steps 61200 - Average Reward -198.0 - Loss 0.428828626871109
+Episode 356 - Total Steps 61400 - Average Reward -200.0 - Loss 0.22269636392593384
+Episode 357 - Total Steps 61600 - Average Reward -199.0 - Loss 0.3018134534358978
+Episode 361 - Total Steps 61800 - Average Reward -196.0 - Loss 0.3329850733280182
+Episode 362 - Total Steps 62000 - Average Reward -199.0 - Loss 0.11932549625635147
+Episode 362 - Total Steps 62200 - Average Reward -200.0 - Loss 0.061173271387815475
+Episode 364 - Total Steps 62400 - Average Reward -198.0 - Loss 0.5113434791564941
+Episode 364 - Total Steps 62600 - Average Reward -200.0 - Loss 0.12395009398460388
+Episode 367 - Total Steps 62800 - Average Reward -197.0 - Loss 0.2585349977016449
+Episode 369 - Total Steps 63000 - Average Reward -198.0 - Loss 0.09114215523004532
+Episode 369 - Total Steps 63200 - Average Reward -200.0 - Loss 0.03188175708055496
+Episode 371 - Total Steps 63400 - Average Reward -198.0 - Loss 0.5024095773696899
+Episode 372 - Total Steps 63600 - Average Reward -199.0 - Loss 0.36478090286254883
+Episode 373 - Total Steps 63800 - Average Reward -199.0 - Loss 0.09483374655246735
+Episode 375 - Total Steps 64000 - Average Reward -198.0 - Loss 0.09330236166715622
+Episode 378 - Total Steps 64200 - Average Reward -197.0 - Loss 0.22274260222911835
+Episode 378 - Total Steps 64400 - Average Reward -200.0 - Loss 0.23156994581222534
+Episode 379 - Total Steps 64600 - Average Reward -199.0 - Loss 0.24989381432533264
+Episode 380 - Total Steps 64800 - Average Reward -199.0 - Loss 0.6717772483825684
+Episode 382 - Total Steps 65000 - Average Reward -198.0 - Loss 0.08724331855773926
+Episode 383 - Total Steps 65200 - Average Reward -199.0 - Loss 0.22260621190071106
+Episode 384 - Total Steps 65400 - Average Reward -199.0 - Loss 0.1397467851638794
+Episode 386 - Total Steps 65600 - Average Reward -198.0 - Loss 0.1770317107439041
+Episode 387 - Total Steps 65800 - Average Reward -199.0 - Loss 0.0759848803281784
+Episode 387 - Total Steps 66000 - Average Reward -200.0 - Loss 0.3355015814304352
+Episode 388 - Total Steps 66200 - Average Reward -199.0 - Loss 0.21412447094917297
+Episode 392 - Total Steps 66400 - Average Reward -197.0 - Loss 0.061827223747968674
+Episode 393 - Total Steps 66600 - Average Reward -198.0 - Loss 0.09826715290546417
+Episode 395 - Total Steps 66800 - Average Reward -198.0 - Loss 0.5797441005706787
+Episode 395 - Total Steps 67000 - Average Reward -200.0 - Loss 0.029192689806222916
+Episode 396 - Total Steps 67200 - Average Reward -199.0 - Loss 0.3221175968647003
+Episode 397 - Total Steps 67400 - Average Reward -199.0 - Loss 0.19450563192367554
+Episode 399 - Total Steps 67600 - Average Reward -198.0 - Loss 0.08689402043819427
+Episode 401 - Total Steps 67800 - Average Reward -198.0 - Loss 0.13791950047016144
+Episode 402 - Total Steps 68000 - Average Reward -199.0 - Loss 0.25356391072273254
+Episode 403 - Total Steps 68200 - Average Reward -199.0 - Loss 0.21562229096889496
+Episode 404 - Total Steps 68400 - Average Reward -199.0 - Loss 0.3280992805957794
+Episode 404 - Total Steps 68600 - Average Reward -200.0 - Loss 0.2088112086057663
+Episode 405 - Total Steps 68800 - Average Reward -199.0 - Loss 0.26135891675949097
+Episode 408 - Total Steps 69000 - Average Reward -197.0 - Loss 0.16355980932712555
+Episode 410 - Total Steps 69200 - Average Reward -198.0 - Loss 0.24331092834472656
+Episode 412 - Total Steps 69400 - Average Reward -199.0 - Loss 0.28765836358070374
+Episode 412 - Total Steps 69600 - Average Reward -199.0 - Loss 0.25561246275901794
+Episode 412 - Total Steps 69800 - Average Reward -200.0 - Loss 0.2797452211380005
+Episode 416 - Total Steps 70000 - Average Reward -196.0 - Loss 0.28131377696990967
+|Episode 1 | Episode reward -94.0 |Average reward -94.0|
+|Episode 2 | Episode reward -113.0 |Average reward -103.5|
+|Episode 3 | Episode reward -112.0 |Average reward -106.33333333333333|
+|Episode 4 | Episode reward -85.0 |Average reward -101.0|
+|Episode 5 | Episode reward -112.0 |Average reward -103.2|
+Brain saved.
+Episode 419 - Total Steps 70200 - Average Reward -197.0 - Loss 0.4200468063354492
+Episode 420 - Total Steps 70400 - Average Reward -199.0 - Loss 0.22642000019550323
+Episode 420 - Total Steps 70600 - Average Reward -200.0 - Loss 0.030611319467425346
+Episode 420 - Total Steps 70800 - Average Reward -200.0 - Loss 0.19660666584968567
+Episode 421 - Total Steps 71000 - Average Reward -199.0 - Loss -0.006381767801940441
+Episode 422 - Total Steps 71200 - Average Reward -199.0 - Loss 0.3608328104019165
+Episode 424 - Total Steps 71400 - Average Reward -198.0 - Loss 0.15176521241664886
+Episode 426 - Total Steps 71600 - Average Reward -198.0 - Loss 0.2792300879955292
+Episode 428 - Total Steps 71800 - Average Reward -198.0 - Loss 0.19707773625850677
+Episode 428 - Total Steps 72000 - Average Reward -200.0 - Loss 0.020392410457134247
+Episode 430 - Total Steps 72200 - Average Reward -198.0 - Loss -0.014242498204112053
+Episode 430 - Total Steps 72400 - Average Reward -200.0 - Loss 0.26420700550079346
+Episode 432 - Total Steps 72600 - Average Reward -198.0 - Loss 0.24631434679031372
+Episode 433 - Total Steps 72800 - Average Reward -199.0 - Loss 0.19866842031478882
+Episode 435 - Total Steps 73000 - Average Reward -198.0 - Loss 0.3386323153972626
+Episode 436 - Total Steps 73200 - Average Reward -199.0 - Loss 0.45106595754623413
+Episode 437 - Total Steps 73400 - Average Reward -199.0 - Loss 0.14525894820690155
+Episode 438 - Total Steps 73600 - Average Reward -199.0 - Loss 0.20523537695407867
+Episode 439 - Total Steps 73800 - Average Reward -199.0 - Loss 0.045682642608881
+Episode 441 - Total Steps 74000 - Average Reward -199.0 - Loss 0.13494081795215607
+Episode 443 - Total Steps 74200 - Average Reward -197.0 - Loss 0.20372827351093292
+Episode 444 - Total Steps 74400 - Average Reward -199.0 - Loss 0.06861475110054016
+Episode 444 - Total Steps 74600 - Average Reward -200.0 - Loss 0.24872902035713196
+Episode 446 - Total Steps 74800 - Average Reward -198.0 - Loss 0.08714725077152252
+Episode 447 - Total Steps 75000 - Average Reward -199.0 - Loss 0.32683050632476807
+Episode 449 - Total Steps 75200 - Average Reward -198.0 - Loss 0.2584323585033417
+Episode 451 - Total Steps 75400 - Average Reward -198.0 - Loss -0.04227138310670853
+Episode 451 - Total Steps 75600 - Average Reward -200.0 - Loss 0.13008804619312286
+Episode 451 - Total Steps 75800 - Average Reward -200.0 - Loss 0.3468508720397949
+Episode 453 - Total Steps 76000 - Average Reward -198.0 - Loss 0.050293173640966415
+Episode 455 - Total Steps 76200 - Average Reward -198.0 - Loss 0.16008920967578888
+Episode 457 - Total Steps 76400 - Average Reward -198.0 - Loss 0.1605972945690155
+Episode 458 - Total Steps 76600 - Average Reward -199.0 - Loss 0.11857829988002777
+Episode 458 - Total Steps 76800 - Average Reward -200.0 - Loss 0.12393420934677124
+Episode 459 - Total Steps 77000 - Average Reward -199.0 - Loss 0.06607154756784439
+Episode 461 - Total Steps 77200 - Average Reward -198.0 - Loss 0.04267812892794609
+Episode 464 - Total Steps 77400 - Average Reward -198.0 - Loss 0.2930009067058563
+Episode 465 - Total Steps 77600 - Average Reward -198.0 - Loss 0.17761096358299255
+Episode 465 - Total Steps 77800 - Average Reward -200.0 - Loss -0.06186683848500252
+Episode 466 - Total Steps 78000 - Average Reward -199.0 - Loss 0.14182007312774658
+Episode 468 - Total Steps 78200 - Average Reward -198.0 - Loss 0.15172530710697174
+Episode 469 - Total Steps 78400 - Average Reward -199.0 - Loss -0.05017794668674469
+Episode 470 - Total Steps 78600 - Average Reward -199.0 - Loss -0.00638921931385994
+Episode 472 - Total Steps 78800 - Average Reward -198.0 - Loss 0.04448144882917404
+Episode 473 - Total Steps 79000 - Average Reward -199.0 - Loss 0.48501715064048767
+Episode 476 - Total Steps 79200 - Average Reward -197.0 - Loss 0.05496300756931305
+Episode 478 - Total Steps 79400 - Average Reward -198.0 - Loss 0.26812392473220825
+Episode 478 - Total Steps 79600 - Average Reward -200.0 - Loss 0.12934647500514984
+Episode 478 - Total Steps 79800 - Average Reward -200.0 - Loss 0.11135804653167725
+Episode 481 - Total Steps 80000 - Average Reward -197.0 - Loss 0.37685200572013855
+|Episode 1 | Episode reward -114.0 |Average reward -114.0|
+|Episode 2 | Episode reward -113.0 |Average reward -113.5|
+|Episode 3 | Episode reward -116.0 |Average reward -114.33333333333333|
+|Episode 4 | Episode reward -117.0 |Average reward -115.0|
+|Episode 5 | Episode reward -88.0 |Average reward -109.6|
+Brain saved.
+Episode 483 - Total Steps 80200 - Average Reward -198.0 - Loss 0.4543595612049103
+Episode 485 - Total Steps 80400 - Average Reward -198.0 - Loss 0.27969712018966675
+Episode 486 - Total Steps 80600 - Average Reward -199.0 - Loss 0.31909531354904175
+Episode 486 - Total Steps 80800 - Average Reward -200.0 - Loss -0.002287445589900017
+Episode 488 - Total Steps 81000 - Average Reward -198.0 - Loss 0.15660931169986725
+Episode 489 - Total Steps 81200 - Average Reward -199.0 - Loss 0.3975473940372467
+Episode 491 - Total Steps 81400 - Average Reward -198.0 - Loss 0.09816492348909378
+Episode 493 - Total Steps 81600 - Average Reward -198.0 - Loss 0.36327168345451355
+Episode 494 - Total Steps 81800 - Average Reward -199.0 - Loss 0.21736177802085876
+Episode 494 - Total Steps 82000 - Average Reward -200.0 - Loss 0.19259358942508698
+Episode 496 - Total Steps 82200 - Average Reward -198.0 - Loss 0.01371928583830595
+Episode 497 - Total Steps 82400 - Average Reward -199.0 - Loss 0.0578157939016819
+Episode 499 - Total Steps 82600 - Average Reward -198.0 - Loss 0.05851520597934723
+Episode 501 - Total Steps 82800 - Average Reward -198.0 - Loss 0.3725736439228058
+Episode 502 - Total Steps 83000 - Average Reward -200.0 - Loss -0.07581372559070587
+Episode 502 - Total Steps 83200 - Average Reward -199.0 - Loss -0.015477550216019154
+Episode 505 - Total Steps 83400 - Average Reward -197.0 - Loss 0.024961862713098526
+Episode 506 - Total Steps 83600 - Average Reward -199.0 - Loss 0.3754572570323944
+Episode 506 - Total Steps 83800 - Average Reward -200.0 - Loss 0.13784648478031158
+Episode 507 - Total Steps 84000 - Average Reward -199.0 - Loss 0.18290574848651886
+Episode 510 - Total Steps 84200 - Average Reward -197.0 - Loss 0.012755356729030609
+Episode 513 - Total Steps 84400 - Average Reward -197.0 - Loss 0.3517616391181946
+Episode 513 - Total Steps 84600 - Average Reward -200.0 - Loss 0.2669866681098938
+Episode 514 - Total Steps 84800 - Average Reward -199.0 - Loss 0.11526656150817871
+Episode 515 - Total Steps 85000 - Average Reward -199.0 - Loss 0.11645878851413727
+Episode 519 - Total Steps 85200 - Average Reward -196.0 - Loss 0.15761440992355347
+Episode 520 - Total Steps 85400 - Average Reward -199.0 - Loss 0.1347665637731552
+Episode 520 - Total Steps 85600 - Average Reward -200.0 - Loss 0.23230665922164917
+Episode 522 - Total Steps 85800 - Average Reward -198.0 - Loss 0.17461146414279938
+Episode 522 - Total Steps 86000 - Average Reward -200.0 - Loss 0.6765201687812805
+Episode 525 - Total Steps 86200 - Average Reward -198.0 - Loss 0.07974299043416977
+Episode 526 - Total Steps 86400 - Average Reward -198.0 - Loss 0.1601666808128357
+Episode 528 - Total Steps 86600 - Average Reward -198.0 - Loss 0.14429500699043274
+Episode 529 - Total Steps 86800 - Average Reward -199.0 - Loss 0.1134319007396698
+Episode 529 - Total Steps 87000 - Average Reward -200.0 - Loss 0.24801525473594666
+Episode 531 - Total Steps 87200 - Average Reward -198.0 - Loss 0.1787303239107132
+Episode 531 - Total Steps 87400 - Average Reward -200.0 - Loss 0.03074462153017521
+Episode 534 - Total Steps 87600 - Average Reward -197.0 - Loss 0.08436274528503418
+Episode 536 - Total Steps 87800 - Average Reward -198.0 - Loss 0.1442154049873352
+Episode 536 - Total Steps 88000 - Average Reward -200.0 - Loss 0.25432297587394714
+Episode 538 - Total Steps 88200 - Average Reward -198.0 - Loss 0.22978055477142334
+Episode 539 - Total Steps 88400 - Average Reward -199.0 - Loss -0.007705645635724068
+Episode 540 - Total Steps 88600 - Average Reward -199.0 - Loss 0.10097863525152206
+Episode 542 - Total Steps 88800 - Average Reward -198.0 - Loss -0.06056760251522064
+Episode 545 - Total Steps 89000 - Average Reward -197.0 - Loss 0.2631542980670929
+Episode 545 - Total Steps 89200 - Average Reward -200.0 - Loss 0.0017656285781413317
+Episode 546 - Total Steps 89400 - Average Reward -199.0 - Loss 0.08617453277111053
+Episode 547 - Total Steps 89600 - Average Reward -199.0 - Loss 0.17731796205043793
+Episode 549 - Total Steps 89800 - Average Reward -198.0 - Loss 0.242276132106781
+Episode 552 - Total Steps 90000 - Average Reward -197.0 - Loss 0.21963484585285187
+|Episode 1 | Episode reward -113.0 |Average reward -113.0|
+|Episode 2 | Episode reward -84.0 |Average reward -98.5|
+|Episode 3 | Episode reward -111.0 |Average reward -102.66666666666667|
+|Episode 4 | Episode reward -110.0 |Average reward -104.5|
+|Episode 5 | Episode reward -112.0 |Average reward -106.0|
+Brain saved.
