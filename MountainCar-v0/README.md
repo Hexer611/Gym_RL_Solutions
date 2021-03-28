@@ -1,4 +1,4 @@
-This is a solution to gym/MountainCar-v0** environment using PPO agent from tf_agents library in TensorFlow.
+This is a solution to gym/MountainCar-v0 environment using PPO agent from tf_agents library in TensorFlow.
 
 # Dependencies
 
